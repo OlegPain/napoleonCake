@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "env": "^0.0.2",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "i": "^0.3.7",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./js/node.js"
+  },
+  "author": "olegPain",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "keywords": [
+    "start"
+  ],
+  "description": ""
+}
